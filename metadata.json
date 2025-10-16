@@ -1,0 +1,5 @@
+{
+  "name": "Analizar codigo",
+  "description": "Analyze code snippets for functionality, bugs, and optimizations using Gemini.",
+  "requestFramePermissions": []
+}
